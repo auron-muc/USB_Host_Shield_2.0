@@ -2,3 +2,5 @@
 *.zip
 *.rar
 build/
+/.cproject
+/.project
